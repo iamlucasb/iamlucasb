@@ -14,7 +14,7 @@ Je conçois des agents IA sur mesure qui travaillent dans les logiciels de l’e
 
 **Open source**
 
-- [lti-core](https://github.com/iamlucasb/lti-core) : bibliothèque TypeScript pour connecter un outil à une plateforme de formation (LMS) en LTI 1.3, avec lancement sécurisé, Deep Linking 2.0 et JWKS, sans framework ni base de données imposés
+- [lti-core](https://github.com/iamlucasb/lti-core) : bibliothèque TypeScript pour connecter un outil à une plateforme de formation (LMS) en LTI 1.3, avec lancement sécurisé, Deep Linking 2.0 et JWKS, sans framework ni base de données imposés ([npm](https://www.npmjs.com/package/lti-core))
 
 **Liens**
 
