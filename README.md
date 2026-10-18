@@ -12,6 +12,10 @@ Je conçois des agents IA sur mesure qui travaillent dans les logiciels de l’e
 - [Emails entrants](https://lucasbossard.com/agent-ia/emails-entrants) : trier et traiter une boîte mail partagée
 - [Tous les exemples](https://lucasbossard.com/agent-ia)
 
+**Open source**
+
+- [lti-core](https://github.com/iamlucasb/lti-core) : bibliothèque TypeScript pour connecter un outil à une plateforme de formation (LMS) en LTI 1.3, avec lancement sécurisé, Deep Linking 2.0 et JWKS, sans framework ni base de données imposés
+
 **Liens**
 
 [Site](https://lucasbossard.com) · [Blog](https://lucasbossard.com/blog) · [LinkedIn](https://www.linkedin.com/in/lucas-bossard/) · [Malt](https://www.malt.fr/profile/lucasbossard)
